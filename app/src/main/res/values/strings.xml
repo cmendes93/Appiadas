@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Appiadas</string>
+    <string name="label_joke_hint">Here the joke will be displayed</string>
+    <string name="button_new_joker">Tell another joke</string>
+
+
+    <string name="joker_two">Why doesn\'t the pine tree get lost in the forest?</string>
+    <string name="joker_three">" What did a pagodeiro do in the church?."</string>
+    <string name="joker_four">Why was Napoleon always called to parties? Because he was GOOD IN THE PARTY.</string>
+    <string name="joker_five">What is the king of cheese? It\'s the curd.</string>
+    <string name="joker_six">Por que a velhinha não usa relógio?\nPorque ela é senhora.</string>
+    <string name="joker_seven">Quando os americanos comeram carne pela primeira vez?\nQuando chegou Cristovão Com Lombo.</string>
+    <string name="joker_one">" Why is the spider the most needy animal in the world? Because she is an aracneedyou."</string>
+</resources>

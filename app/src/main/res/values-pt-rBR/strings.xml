@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appiadas</string>
+    <string name="label_joke_hint">Aqui será exibida a piada</string>
+    <string name="button_new_joker">Contar outra piada</string>
+    <string name="joker_one">Por que a aranha é o animal mais carente do mundo?</string>
+    <string name="joker_two">Por que o pinheiro não se perde na floresta?</string>
+    <string name="joker_three">O que um pagodeiro foi fazer na igreja?</string>
+    <string name="joker_four">Por que o Napoleão era chamado sempre pras festas?</string>
+    <string name="joker_five">Qual é o rei dos queijos?</string>
+    <string name="joker_six">É o reiqueijão.</string>
+</resources>
